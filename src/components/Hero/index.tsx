@@ -1,9 +1,10 @@
 import Link from "next/link";
+import React from "react";
 // TODO Test issue
 
 const Hero = () => {
   return (
-    <>
+    <React.Fragment>
       <section
         id="home"
         className="relative z-10 overflow-hidden bg-white pb-16 pt-[120px] dark:bg-gray-dark md:pb-[120px] md:pt-[150px] xl:pb-[160px] xl:pt-[180px] 2xl:pb-[200px] 2xl:pt-[210px]"
@@ -21,7 +22,7 @@ const Hero = () => {
                   components, and sections you need to launcasdfasdfasdfh a comsadfasdfsadfplete
                   business website, built-with Next 13.x and Tailwind CSS.
                 </p>
-                div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
+                <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
                     href="https://nextjstemplates.com/templates/saas-starter-startup"
                     className="rounded-full bg-orange-500 px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-orange-600"
@@ -281,7 +282,7 @@ const Hero = () => {
           </svg>
         </div>
       </section>
-    </>
+    </React.Fragment>
   );
 };
 
