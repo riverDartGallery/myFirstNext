@@ -18,7 +18,7 @@ const Hero = () => {
                 <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
                   Try this for a Eighth  time.  This is  a second test for for test 6!!!!! Startup is free Next.js test template for startups and SaaS
                   business websites comes with all the essential pages,
-                  components, and sections you need to launch a comsadfasdfsadfplete
+                  components, and sections you need to launcasdfasdfasdfh a comsadfasdfsadfplete
                   business website, built-with Next 13.x and Tailwind CSS.
                 </p>
                 div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
