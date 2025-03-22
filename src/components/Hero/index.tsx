@@ -20,7 +20,7 @@ const Hero = () => {
                   Try this for a Eighth  time.  This is  a second test for for test 6!!!!! Startup is free Next.js test template for startups and SaaS
                   business websites comes with all the essential pages,
                   components, and sections you need to launcasdfasdfasdfh a comsadfasdfsadfplete
-                  business website, built-with Next 13.x and Tailwind CSS.
+                  business website, built-with Next 13.x and Tailwinasdasdasdd CSS.
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
