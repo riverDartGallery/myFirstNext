@@ -17,7 +17,7 @@ const Hero = () => {
                   Free!!! and Open-Source Next.js Template for Startup & SaaS
                 </h1>
                 <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
-                  To code, or not to code: that is the question. Whether 'tis nobler in the mind to suffer the bugs and errors of outrageous software, or to take arms against a sea of debugging troubles. This template, fair as the summer's morn, comes with essential pages and components, crafted with Next 13.x and adorned with Tailwind's gentle touch, ready to launch thy digital venture into the vast realms of the internet.
+                  To code, or not to code: that is the question. Whether &apos;tis nobler in the mind to suffer the bugs and errors of outrageous software, or to take arms against a sea of debugging troubles. This template, fair as the summer&apos;s morn, comes with essential pages and components, crafted with Next 13.x and adorned with Tailwind&apos;s gentle touch, ready to launch thy digital venture into the vast realms of the internet.
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
