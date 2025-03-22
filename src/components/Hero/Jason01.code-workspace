@@ -7,5 +7,15 @@
 	"settings": {
 		"typescript.tsdk": "node_modules/typescript/lib",
 		"typescript.enablePromptUseWorkspaceTsdk": true
+	},
+	"launch": {
+		"configurations": [
+			{
+				"type": "chrome",
+				"name": "https://localhost:8080",
+				"request": "launch",
+				"url": "https://localhost:8080"
+			}
+		]
 	}
 }
